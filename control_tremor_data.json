@@ -1,0 +1,3772 @@
+[
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC100_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.09876543209876543
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.04938271604938271
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC101_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.20987654320987653
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Power Band",
+                    0.13580246913580246
+                ],
+                [
+                    "Spectral Entropy",
+                    0.13580246913580246
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.09876543209876543
+                ],
+                [
+                    "RMS",
+                    0.04938271604938271
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC102_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "Dominant Frequency",
+                    0.14814814814814817
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "SMA",
+                    0.03703703703703704
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC103_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.2962962962962963
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "SMA",
+                    0.11111111111111109
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.07407407407407407
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407407
+                ],
+                [
+                    "Power Band",
+                    0.04938271604938271
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC104_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.1851851851851852
+                ],
+                [
+                    "SMA",
+                    0.11111111111111112
+                ],
+                [
+                    "Power Band",
+                    0.07407407407407408
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407408
+                ],
+                [
+                    "RMS",
+                    0.07407407407407408
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC105_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.18518518518518517
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.037037037037037035
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC106_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Dominant Frequency",
+                    0.1111111111111111
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC107_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Dominant Frequency",
+                    0.25925925925925924
+                ],
+                [
+                    "Kurtosis",
+                    0.16049382716049385
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC108_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.2962962962962963
+                ],
+                [
+                    "Dominant Frequency",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.06172839506172839
+                ],
+                [
+                    "Power Band",
+                    0.04938271604938271
+                ],
+                [
+                    "SMA",
+                    0.04938271604938271
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC109_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Spectral Entropy",
+                    0.18518518518518517
+                ],
+                [
+                    "Kurtosis",
+                    0.16049382716049385
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "Power Band",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC110_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.1851851851851852
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "SMA",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC111_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Skewness",
+                    0.1728395061728395
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "SMA",
+                    0.08641975308641975
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "Power Band",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC112_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Skewness",
+                    0.20987654320987653
+                ],
+                [
+                    "Dominant Frequency",
+                    0.14814814814814814
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.14814814814814814
+                ],
+                [
+                    "Kurtosis",
+                    0.14814814814814814
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "SMA",
+                    0.04938271604938271
+                ],
+                [
+                    "Power Band",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC113_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Skewness",
+                    0.1728395061728395
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "SMA",
+                    0.08641975308641975
+                ],
+                [
+                    "Power Band",
+                    0.037037037037037035
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC114_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.18518518518518517
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.037037037037037035
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC115_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC116_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.2962962962962963
+                ],
+                [
+                    "Skewness",
+                    0.19753086419753085
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.08641975308641975
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "Power Band",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.012345679012345685
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC117_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.2962962962962963
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "SMA",
+                    0.08641975308641975
+                ],
+                [
+                    "RMS",
+                    0.06172839506172839
+                ],
+                [
+                    "Power Band",
+                    0.04938271604938271
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC118_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Dominant Frequency",
+                    0.2222222222222222
+                ],
+                [
+                    "Kurtosis",
+                    0.19753086419753085
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.13580246913580246
+                ],
+                [
+                    "Power Band",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.06172839506172839
+                ],
+                [
+                    "SMA",
+                    0.04938271604938271
+                ],
+                [
+                    "Spectral Entropy",
+                    0.037037037037037035
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC120_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "Spectral Entropy",
+                    0.11111111111111112
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407408
+                ],
+                [
+                    "RMS",
+                    0.07407407407407408
+                ],
+                [
+                    "SMA",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC121_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "SMA",
+                    0.09876543209876544
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407408
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "RMS",
+                    0.04938271604938272
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC122_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC123_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.16049382716049385
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.12345679012345678
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Dominant Frequency",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.06172839506172839
+                ],
+                [
+                    "Power Band",
+                    0.04938271604938271
+                ],
+                [
+                    "SMA",
+                    0.04938271604938271
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC124_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "Dominant Frequency",
+                    0.1851851851851852
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Spectral Entropy",
+                    0.03703703703703704
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "SMA",
+                    0.03703703703703704
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC125_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "Dominant Frequency",
+                    0.1851851851851852
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Spectral Entropy",
+                    0.03703703703703704
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "SMA",
+                    0.03703703703703704
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC126_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "SMA",
+                    0.09876543209876544
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407408
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "RMS",
+                    0.04938271604938272
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC127_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.16049382716049385
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "Dominant Frequency",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC128_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Dominant Frequency",
+                    0.1851851851851852
+                ],
+                [
+                    "Kurtosis",
+                    0.1851851851851852
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Skewness",
+                    0.1358024691358025
+                ],
+                [
+                    "Spectral Entropy",
+                    0.11111111111111113
+                ],
+                [
+                    "RMS",
+                    0.061728395061728406
+                ],
+                [
+                    "Power Band",
+                    0.04938271604938273
+                ],
+                [
+                    "SMA",
+                    0.04938271604938273
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC129_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.2222222222222222
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC130_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.3333333333333333
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "Bandwidth",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "SMA",
+                    0.08641975308641975
+                ],
+                [
+                    "RMS",
+                    0.06172839506172839
+                ],
+                [
+                    "Power Band",
+                    0.04938271604938271
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC132_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "Spectral Entropy",
+                    0.11111111111111112
+                ],
+                [
+                    "Dominant Frequency",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "SMA",
+                    0.03703703703703704
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC133_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Spectral Entropy",
+                    0.18518518518518517
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.14814814814814814
+                ],
+                [
+                    "Kurtosis",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407407
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC134_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "Dominant Frequency",
+                    0.14814814814814817
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "SMA",
+                    0.03703703703703704
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC135_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814817
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407408
+                ],
+                [
+                    "SMA",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC136_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.14814814814814814
+                ],
+                [
+                    "Kurtosis",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Dominant Frequency",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC137_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.19753086419753085
+                ],
+                [
+                    "Spectral Entropy",
+                    0.18518518518518517
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.18518518518518517
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC138_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.2962962962962963
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC139_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC140_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Dominant Frequency",
+                    0.25925925925925924
+                ],
+                [
+                    "Kurtosis",
+                    0.16049382716049385
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC141_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.2222222222222222
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC142_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "SMA",
+                    0.09876543209876544
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407408
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "RMS",
+                    0.04938271604938272
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC143_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Skewness",
+                    0.1728395061728395
+                ],
+                [
+                    "Dominant Frequency",
+                    0.14814814814814814
+                ],
+                [
+                    "Spectral Entropy",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "SMA",
+                    0.04938271604938271
+                ],
+                [
+                    "Power Band",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC144_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.13580246913580246
+                ],
+                [
+                    "Spectral Entropy",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.012345679012345685
+                ],
+                [
+                    "Bandwidth",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC145_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.2222222222222222
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC147_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Dominant Frequency",
+                    0.25925925925925924
+                ],
+                [
+                    "Skewness",
+                    0.14814814814814814
+                ],
+                [
+                    "Kurtosis",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC148_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.1851851851851852
+                ],
+                [
+                    "Dominant Frequency",
+                    0.11111111111111112
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "SMA",
+                    0.03703703703703704
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC149_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.1851851851851852
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "SMA",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC150_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Peak-to-Peak",
+                    0.2222222222222222
+                ],
+                [
+                    "Kurtosis",
+                    0.20987654320987653
+                ],
+                [
+                    "Power Band",
+                    0.13580246913580246
+                ],
+                [
+                    "Skewness",
+                    0.12345679012345678
+                ],
+                [
+                    "SMA",
+                    0.09876543209876543
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.04938271604938271
+                ],
+                [
+                    "ZCR",
+                    0.012345679012345685
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC151_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Spectral Entropy",
+                    0.18518518518518517
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Kurtosis",
+                    0.16049382716049385
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC153_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Dominant Frequency",
+                    0.18518518518518517
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.037037037037037035
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/HC154_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.2962962962962963
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.1111111111111111
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ],
+                [
+                    "ZCR",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC001_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.14814814814814814
+                ],
+                [
+                    "Kurtosis",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Dominant Frequency",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "SMA",
+                    0.037037037037037035
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC002_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Spectral Entropy",
+                    0.18518518518518517
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Kurtosis",
+                    0.16049382716049385
+                ],
+                [
+                    "Skewness",
+                    0.12345679012345678
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.08641975308641975
+                ],
+                [
+                    "RMS",
+                    0.06172839506172839
+                ],
+                [
+                    "Power Band",
+                    0.04938271604938271
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC003_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "ZCR",
+                    0.1851851851851852
+                ],
+                [
+                    "Kurtosis",
+                    0.17283950617283955
+                ],
+                [
+                    "Skewness",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.1358024691358025
+                ],
+                [
+                    "Spectral Entropy",
+                    0.1358024691358025
+                ],
+                [
+                    "SMA",
+                    0.09876543209876544
+                ],
+                [
+                    "RMS",
+                    0.04938271604938272
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC004_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.17283950617283952
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.12345679012345678
+                ],
+                [
+                    "SMA",
+                    0.11111111111111109
+                ],
+                [
+                    "Power Band",
+                    0.07407407407407407
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.07407407407407407
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC005_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Kurtosis",
+                    0.17283950617283952
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.12345679012345678
+                ],
+                [
+                    "SMA",
+                    0.11111111111111109
+                ],
+                [
+                    "Power Band",
+                    0.07407407407407407
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC006_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.1851851851851852
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "SMA",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.03703703703703704
+                ],
+                [
+                    "RMS",
+                    0.03703703703703704
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.03703703703703704
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC007_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Spectral Entropy",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.09876543209876543
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.04938271604938271
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC008_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC009_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.2962962962962963
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "Skewness",
+                    0.09876543209876543
+                ],
+                [
+                    "SMA",
+                    0.08641975308641975
+                ],
+                [
+                    "RMS",
+                    0.06172839506172839
+                ],
+                [
+                    "Power Band",
+                    0.04938271604938271
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC010_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Skewness",
+                    0.20987654320987653
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Kurtosis",
+                    0.16049382716049385
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.11111111111111109
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407407
+                ],
+                [
+                    "Power Band",
+                    0.06172839506172839
+                ],
+                [
+                    "RMS",
+                    0.04938271604938271
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC011_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.29629629629629634
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814817
+                ],
+                [
+                    "Power Band",
+                    0.11111111111111112
+                ],
+                [
+                    "SMA",
+                    0.09876543209876544
+                ],
+                [
+                    "Spectral Entropy",
+                    0.07407407407407408
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407408
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.07407407407407408
+                ],
+                [
+                    "Skewness",
+                    0.07407407407407408
+                ],
+                [
+                    "RMS",
+                    0.04938271604938272
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC012_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Spectral Entropy",
+                    0.20987654320987653
+                ],
+                [
+                    "Kurtosis",
+                    0.19753086419753085
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC013_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "Spectral Entropy",
+                    0.14814814814814814
+                ],
+                [
+                    "ZCR",
+                    0.14814814814814814
+                ],
+                [
+                    "Power Band",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Bandwidth",
+                    0.07407407407407407
+                ],
+                [
+                    "SMA",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "file": "synapse_data/Version_1/control_participants/csv_files/WHC014_SelfPace.csv",
+        "data": {
+            "Evaluation Report": "              precision    recall  f1-score   support\n\n  Non-Tremor       0.00      0.00      0.00       0.0\n      Tremor       0.00      0.00      0.00       2.0\n\n    accuracy                           0.00       2.0\n   macro avg       0.00      0.00      0.00       2.0\nweighted avg       0.00      0.00      0.00       2.0\n",
+            "Confusion Matrix": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    2,
+                    0
+                ]
+            ],
+            "Feature Importance": [
+                [
+                    "Kurtosis",
+                    0.25925925925925924
+                ],
+                [
+                    "ZCR",
+                    0.18518518518518517
+                ],
+                [
+                    "Spectral Entropy",
+                    0.1111111111111111
+                ],
+                [
+                    "SMA",
+                    0.1111111111111111
+                ],
+                [
+                    "Skewness",
+                    0.1111111111111111
+                ],
+                [
+                    "Power Band",
+                    0.07407407407407407
+                ],
+                [
+                    "RMS",
+                    0.07407407407407407
+                ],
+                [
+                    "Bandwidth",
+                    0.037037037037037035
+                ],
+                [
+                    "Peak-to-Peak",
+                    0.037037037037037035
+                ],
+                [
+                    "Dominant Frequency",
+                    0.0
+                ]
+            ]
+        }
+    }
+]
